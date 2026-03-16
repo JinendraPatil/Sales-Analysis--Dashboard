@@ -104,7 +104,7 @@ The insights generated can help businesses optimize their sales strategies and i
 ### Sales Overview - 
 ![Sales Overview](images/Sales%20Overview.png)
 
-## Regional Analysis - 
+### Regional Analysis - 
 ![Regional Analysis](Regional%20Analysis.png)
 ![Regional Sales](Regionalsales.png)
 
