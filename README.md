@@ -1,131 +1,113 @@
-# Sales-Analysis--Dashboard
-1️⃣ Title
 
-Sales Analysis Dashboard – Power BI Project
+# Sales Analysis Dashboard - Power BI Project
 
-2️⃣ Description
+---
 
-This project presents an interactive Sales Analysis Dashboard built using Microsoft Power BI.
+## Description - 
+
+This project presents an **interactive Sales Analysis Dashboard** built using **Microsoft Power BI**.
 The dashboard analyzes sales performance across different dimensions such as products, regions, and time periods to uncover business insights.
 
-The dataset was collected from ChatGPT-generated sample data, stored as CSV files, and processed using PostgreSQL for cleaning, grouping, and preparation before visualization in Power BI.
+The dataset was collected from ChatGPT-generated sample data, stored as CSV files, and processed using **PostgreSQL for cleaning, grouping, and preparation before visualization in Power BI**.
 
 The dashboard helps stakeholders quickly understand sales trends, identify top-performing products, and make data-driven business decisions.
 
-3️⃣ Tech Stack
+---
+
+## Tech Stack - 
 
 The project was built using the following tools and technologies:
 
-Power BI – Data visualization and dashboard creation
+* **Power BI** – Data visualization and Interactive dashboard creation
+* **Power Query** – Used for transformation of data
+* **DAX (Data Analysis Expressions)** – Used for calculated measures and KPIs
+* **PostgreSQL** – Data cleaning, transformation, and grouping
+* **MS Excel / CSV Files** – Data storage and preprocessing
 
-PostgreSQL – Data cleaning, transformation, and grouping
+---
 
-MS Excel / CSV Files – Data storage and preprocessing
-
-DAX (Data Analysis Expressions) – Measures and calculations in Power BI
-
-4️⃣ Data Source
+## Data Source - 
 
 The dataset used in this project was synthetically generated using ChatGPT for practice and learning purposes.
 
-Data was stored in CSV format and included fields such as:
-
-Order ID
-
-Order Date
-
-Product Category
-
-Product Name
-
-Region
-
-Sales Amount
-
-Quantity
-
-Profit
+* Data was stored in CSV format and included fields such as:
+* Transaction Details
+* Product Category
+* Quantity
+* Discounts
+* Region
+* Profit
 
 The dataset was then imported into PostgreSQL for:
 
-Data cleaning
+* Data cleaning
+* Removing duplicates
+* Aggregation and grouping
+* Preparing structured tables for analysis
 
-Removing duplicates
+---
 
-Aggregation and grouping
+## Features / Highlights - 
+### Interactive Dashboard
+*Filters and slicers for dynamic data exploration
+*Drill-down capability for deeper insights
 
-Preparing structured tables for analysis
+### Sales Performance Tracking
+*Total Sales
+*Total Profit
+*Quantity Sold
 
-5️⃣ Features / Highlights
-🔹 Interactive Dashboard
+### Regional Analysis
+*Sales distribution across different regions
+*Global stores performances
 
-Filters and slicers for dynamic data exploration
+### Product Insights
+*Best-selling products
+*Category-wise sales performance
 
-Drill-down capability for deeper insights
+### Time-Based Analysis
+*Monthly and yearly sales trends
 
-🔹 Sales Performance Tracking
-
-Total Sales
-
-Total Profit
-
-Quantity Sold
-
-🔹 Regional Analysis
-
-Sales distribution across different regions
-
-🔹 Product Insights
-
-Best-selling products
-
-Category-wise sales performance
-
-🔹 Time-Based Analysis
-
-Monthly and yearly sales trends
-
-6️⃣ Key Questions Answered
+---
+## Key Questions Answered - 
 
 The dashboard helps answer important business questions such as:
 
-Which products generate the highest sales and profit?
+1. **Which products generate the highest sales and profit?**
+2. **Which region contributes the most to total revenue?**
+3. **How do sales trends change over time?**
+4. **Which product categories perform best?**
+5. **What are the top and bottom performing products?**
+6. **Which store performed well in each cities in specific country?**
 
-Which region contributes the most to total revenue?
+---
 
-How do sales trends change over time?
-
-Which product categories perform best?
-
-What are the top and bottom performing products?
-
-7️⃣ Business Impact & Insights
+## Business Impact & Insights - 
 
 This dashboard enables businesses to:
 
-Identify high-performing products and regions
+* Identify high-performing products and regions
 
-Monitor sales trends and seasonal patterns
+* Monitor sales trends and seasonal patterns
 
-Improve inventory planning and product strategy
+* Improve inventory planning and product strategy
 
-Support data-driven decision making
+* Support data-driven decision making
 
-Detect areas of improvement in sales performance
+* Detect areas of improvement in sales performance
 
 The insights generated can help businesses optimize their sales strategies and improve profitability.
 
-8️⃣ Preview
+---
 
-Add screenshots of the Power BI dashboard here.
+## Preview - 
+### Sales Overview - 
+![Sales Overview](images/Sales_Overview.png)
 
-Example:
+## Regional Analysis - 
+![Regional Analysis](Regional_Analysis.png)
+![Regional Analysis](Regional_Analysis1.png)
 
-![Dashboard Preview](dashboard.png)
 
 
-or multiple images:
 
-![Sales Overview](images/sales_overview.png)
-![Regional Analysis](images/regional_analysis.png)
-![Product Performance](images/product_performance.png)
