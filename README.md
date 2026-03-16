@@ -30,7 +30,7 @@ The project was built using the following tools and technologies:
 
 The dataset used in this project was synthetically generated using ChatGPT for practice and learning purposes.
 
-* Data was stored in CSV format and included fields such as:
+Data was stored in CSV format and included fields such as:
 * Transaction Details
 * Product Category
 * Quantity
@@ -49,24 +49,24 @@ The dataset was then imported into PostgreSQL for:
 
 ## Features / Highlights - 
 ### Interactive Dashboard
-*Filters and slicers for dynamic data exploration
-*Drill-down capability for deeper insights
+* Filters and slicers for dynamic data exploration
+* Drill-down capability for deeper insights
 
 ### Sales Performance Tracking
-*Total Sales
-*Total Profit
-*Quantity Sold
+* Total Sales
+* Total Profit
+* Quantity Sold
 
 ### Regional Analysis
-*Sales distribution across different regions
-*Global stores performances
+* Sales distribution across different regions
+* Global stores performances
 
 ### Product Insights
-*Best-selling products
-*Category-wise sales performance
+* Best-selling products
+* Category-wise sales performance
 
 ### Time-Based Analysis
-*Monthly and yearly sales trends
+* Monthly and yearly sales trends
 
 ---
 ## Key Questions Answered - 
@@ -102,11 +102,11 @@ The insights generated can help businesses optimize their sales strategies and i
 
 ## Preview - 
 ### Sales Overview - 
-![Sales Overview](images/Sales_Overview.png)
+![Sales Overview](images/Sales%20Overview.png)
 
 ## Regional Analysis - 
-![Regional Analysis](Regional_Analysis.png)
-![Regional Analysis](Regional_Analysis1.png)
+![Regional Analysis](Regional%20Analysis.png)
+![Regional Analysis](Regional%20Analysis1.png)
 
 
 
